@@ -1,0 +1,39 @@
+.sayfa{
+			
+    width:360px;
+    margin:auto;
+}
+table{
+    background:#efefef;
+    border-spacing: 10px;
+    text-align: center;
+}
+
+table .btn{
+    width: 60px;
+    background:rgb(5, 234, 230);
+    text-align: center;
+    line-height: 60px;
+    color:rgb(7, 7, 7);
+    font-size: 1.5em;
+}
+#islem, #textGosterge{
+    padding:5px;
+    text-align: right;
+}
+
+#textGosterge{
+    height: 60px;
+    background:#B8F6F6;
+    color:rgb(6, 6, 6);
+    font-size: 1.8em;
+    text-align: right;
+    line-height: 40px;
+    padding:10px;
+    box-sizing: border-box;
+}
+#islem{
+    background: rgb(244, 239, 239);
+}
+/* Add your styles here */
+
